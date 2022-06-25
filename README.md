@@ -1,7 +1,43 @@
 <!DOCTYPE html>
 <html lang= "tin">
    <head>
-    <link rel="stylesheet" href="a.css">
+    <style>
+    body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+      </style>
     <meta charset="UTF-8" />
     <title>vua li don</title>
     <head>
