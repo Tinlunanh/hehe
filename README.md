@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang= "tin">
 <head>  
-<link rel="stylesheet" href="a.css">
+
 <meta charset="UTF-8" /> 
 </head>
 <body>
