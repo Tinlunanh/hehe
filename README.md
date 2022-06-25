@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang= "tin">
    <head>
+    <link rel="stylesheet" href="a.css">
     <meta charset="UTF-8" />
     <title>vua li don</title>
     <head>
